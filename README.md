@@ -1,1 +1,2 @@
 # Correlated-Q
+The Nash equilibrium is to derive a set of strategy for the players to reach the equilibrium state by using the linear programming. We obtain the equilibrium con- ditions by solving objective functions with a set of LP constraints. Here, we find the equilibrium of the envi- ronment of the soccer game by using four different alo- girthms: Correlated-Q, Foe-Q, Friend-Q and Q-learning to reproduce the Figure 3 of Greenwald’s paper.
